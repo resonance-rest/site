@@ -1,3 +1,5 @@
+### Discontinued
+
 # 📦 Frontend for [resonance.rest](https://resonance.rest/) ⎯ made with [NextJS](https://nextjs.org/) & [**Tailwind CSS**](https://tailwindcss.com/)
 
 ### Building
